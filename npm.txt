@@ -1,0 +1,4 @@
+npm install react-scripts --save
+npm install mdb-react-ui-kit
+npm install bootstrap
+npm install react-router-dom
